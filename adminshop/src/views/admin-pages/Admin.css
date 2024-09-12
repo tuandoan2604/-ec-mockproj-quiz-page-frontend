@@ -1,0 +1,19 @@
+.admin-logo {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 31px;
+    color: white;
+}
+  
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.header-btn {
+    float: right;
+    margin-right: 15px;
+}
+
+.header-btn .sign {
+    margin: 0 15px;
+}

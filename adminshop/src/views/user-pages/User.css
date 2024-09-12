@@ -1,0 +1,25 @@
+ .logo {
+    float: left;
+
+    height: 31px;
+    margin: 16px 24px 16px 250px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 31px;
+    color: white;
+
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  
+  .btn-categories {
+    background-color: #C4C4C4;
+          color: #4B4B4B
+  }
+
+  .search {
+    width: 500px;
+    margin-top: 16px;
+    background-color: #C4C4C4;
+  }
